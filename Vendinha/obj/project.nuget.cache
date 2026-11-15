@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FaeXuX0iu0s=",
+  "dgSpecHash": "k/mr8JhP29I=",
   "success": true,
   "projectFilePath": "/home/eduardo/RiderProjects/Vendinha/Vendinha/Vendinha.csproj",
   "expectedPackageFiles": [
-    "/home/eduardo/.nuget/packages/microsoft.aspnetcore.openapi/11.0.0/microsoft.aspnetcore.openapi.11.0.0.nupkg.sha512",
+    "/home/eduardo/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0/microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
     "/home/eduardo/.nuget/packages/microsoft.entityframeworkcore/10.0.0/microsoft.entityframeworkcore.10.0.0.nupkg.sha512",
     "/home/eduardo/.nuget/packages/microsoft.entityframeworkcore.abstractions/10.0.0/microsoft.entityframeworkcore.abstractions.10.0.0.nupkg.sha512",
     "/home/eduardo/.nuget/packages/microsoft.entityframeworkcore.analyzers/10.0.0/microsoft.entityframeworkcore.analyzers.10.0.0.nupkg.sha512",
@@ -28,7 +28,7 @@
     "/home/eduardo/.nuget/packages/modelcontextprotocol.core/2.4.0/modelcontextprotocol.core.2.4.0.nupkg.sha512",
     "/home/eduardo/.nuget/packages/npgsql/10.0.3/npgsql.10.0.3.nupkg.sha512",
     "/home/eduardo/.nuget/packages/npgsql.entityframeworkcore.postgresql/10.0.0/npgsql.entityframeworkcore.postgresql.10.0.0.nupkg.sha512",
-    "/home/eduardo/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.13/microsoft.aspnetcore.app.ref.10.0.13.nupkg.sha512"
+    "/home/eduardo/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.14/microsoft.aspnetcore.app.ref.10.0.14.nupkg.sha512"
   ],
   "logs": []
 }
