@@ -1,0 +1,8 @@
+/home/eduardo/RiderProjects/Vendinha/Vendinha.Api/obj/Debug/net10.0/Vendinha.Api.csproj.AssemblyReference.cache
+/home/eduardo/RiderProjects/Vendinha/Vendinha.Api/obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/eduardo/RiderProjects/Vendinha/Vendinha.Api/obj/Debug/net10.0/Vendinha.Api.GeneratedMSBuildEditorConfig.editorconfig
+/home/eduardo/RiderProjects/Vendinha/Vendinha.Api/obj/Debug/net10.0/Vendinha.Api.AssemblyInfoInputs.cache
+/home/eduardo/RiderProjects/Vendinha/Vendinha.Api/obj/Debug/net10.0/Vendinha.Api.AssemblyInfo.cs
+/home/eduardo/RiderProjects/Vendinha/Vendinha.Api/obj/Debug/net10.0/Vendinha.Api.csproj.CoreCompileInputs.cache
+/home/eduardo/RiderProjects/Vendinha/Vendinha.Api/obj/Debug/net10.0/Vendinha.Api.MvcApplicationPartsAssemblyInfo.cs
+/home/eduardo/RiderProjects/Vendinha/Vendinha.Api/obj/Debug/net10.0/Vendinha.Api.MvcApplicationPartsAssemblyInfo.cache

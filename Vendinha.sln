@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vendinha", "Vendinha\Vendinha.csproj", "{561AD474-A074-4B04-8274-9E4B026DDE83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vendinha.Api", "Vendinha.Api\Vendinha.Api.csproj", "{02E72B23-FD1C-4718-8C1E-DD944998ACAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{561AD474-A074-4B04-8274-9E4B026DDE83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561AD474-A074-4B04-8274-9E4B026DDE83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561AD474-A074-4B04-8274-9E4B026DDE83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561AD474-A074-4B04-8274-9E4B026DDE83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02E72B23-FD1C-4718-8C1E-DD944998ACAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E72B23-FD1C-4718-8C1E-DD944998ACAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E72B23-FD1C-4718-8C1E-DD944998ACAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E72B23-FD1C-4718-8C1E-DD944998ACAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

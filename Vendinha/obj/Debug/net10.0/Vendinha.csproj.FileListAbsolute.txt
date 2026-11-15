@@ -1,0 +1,5 @@
+/home/eduardo/RiderProjects/Vendinha/Vendinha/obj/Debug/net10.0/Vendinha.csproj.AssemblyReference.cache
+/home/eduardo/RiderProjects/Vendinha/Vendinha/obj/Debug/net10.0/Vendinha.GeneratedMSBuildEditorConfig.editorconfig
+/home/eduardo/RiderProjects/Vendinha/Vendinha/obj/Debug/net10.0/Vendinha.AssemblyInfoInputs.cache
+/home/eduardo/RiderProjects/Vendinha/Vendinha/obj/Debug/net10.0/Vendinha.AssemblyInfo.cs
+/home/eduardo/RiderProjects/Vendinha/Vendinha/obj/Debug/net10.0/Vendinha.csproj.CoreCompileInputs.cache
