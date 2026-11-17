@@ -19,8 +19,8 @@ public class ClienteService
     }
     
     private const string ConnectionString = 
-        "Server=172.16.103.22;Port=5432;Database=escola_rodrigo;" +
-        "User Id=postgres;Password=postgres;";
+        "Server=localhost;Port=5432;Database=vendinha;" +
+        "User Id=postgres;Password=;";
 
     public List<Cliente> Consultar(int page = 1)
     {
