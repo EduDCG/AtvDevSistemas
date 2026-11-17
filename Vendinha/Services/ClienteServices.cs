@@ -24,7 +24,7 @@ public class ClienteService
 
     public List<Cliente> Consultar(int page = 1)
     {
-        int pageSize = 20;  // limita 20 resultados
+        int pageSize = 10;
         int skip = (page - 1) * pageSize;
         
         var resultado = context.Clientes
