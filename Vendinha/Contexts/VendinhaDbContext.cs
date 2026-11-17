@@ -17,6 +17,7 @@ public class VendinhaDbContext : DbContext
     }
 
     public DbSet<Cliente> Clientes => Set<Cliente>();
+    public DbSet<Divida> Dividas => Set<Divida>();
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

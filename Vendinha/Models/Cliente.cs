@@ -4,6 +4,8 @@ namespace Vendinha.Models;
 
 public class Cliente
 {
+    
+    [Key]
     [Required, StringLength(11)]
     public String CPF { get; set; }
     
@@ -16,7 +18,7 @@ public class Cliente
     [EmailAddress]
     public String Email
     {
-        get { return this.Email; }
+        get;
         set
         {
             this.Email = value.ToLower().Trim();
@@ -39,5 +41,5 @@ public class Cliente
         }
     }
 
-
+    public List<Divida> Dividas { get; set; } = new();
 }
